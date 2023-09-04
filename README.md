@@ -51,7 +51,7 @@ plt.show()
 
 ## Output:
 ![best fit line](sam.png)
-![mlout](iml1.jpg)
+![OUTPUT](./iml1.jpg)
 
 
 ## Result:
